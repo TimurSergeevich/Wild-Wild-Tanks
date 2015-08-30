@@ -6,7 +6,7 @@
 
 /* Общие стили */
 
-.button {
+.button { //кнопка
     border: none;
     cursor: pointer;
 }
